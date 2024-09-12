@@ -1,6 +1,6 @@
 # sunrise
 
-A new Flutter project.
+It is a basic quote of the day app
 
 ## Getting Started
 
